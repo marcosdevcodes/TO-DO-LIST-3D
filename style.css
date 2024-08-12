@@ -138,6 +138,7 @@ h2{
     width: 8px;
 }
 /*Aqui criamos a barra de rolagem interna de cor braca*/
+/*Com bordas arredondadas em cima e embaixo */
 ::-webkit-scrollbar-thumb{
     background: #fff;
     border-top-left-radius: 4px;
